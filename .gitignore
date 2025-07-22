@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual environments
+.venv
+
+
+# ROS specific
+log/
+install/
+build/
+test/
+
+# Keep the photos directory but ignore all its contents except .gitkeep
+camera_package/photos/*
